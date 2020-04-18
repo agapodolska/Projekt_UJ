@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ee21bc2-817e-4f2a-b6c2-03ab63e65ed3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZkVpLMGLNHu3bMfgmG2gOa29rC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="SeleniumUjProject.pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\helluinstar\IdeaProjects\Selenium_UJ_project\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/helluinstar/IdeaProjects/Selenium_UJ_project/src/main/java/SeleniumUjProject/testRun.xml">
+    <configuration name="C:/Users/helluinstar/IdeaProjects/Selenium_UJ_project/src/main/java/SeleniumUjProject/testRun.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_UJ_project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/SeleniumUjProject/testRun.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstClass.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_UJ_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumUjProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumUjProject" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumUjProject.FirstClass" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstClass.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_UJ_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumUjProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumUjProject" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumUjProject.FirstClass" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumUjProject" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_UJ_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumUjProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumUjProject" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_UJ_project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/helluinstar/IdeaProjects/Selenium_UJ_project/src/main/java/SeleniumUjProject/testRun.xml" />
+        <item itemvalue="TestNG.SeleniumUjProject" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.FirstClass.test1" />
+        <item itemvalue="TestNG.FirstClass.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ee21bc2-817e-4f2a-b6c2-03ab63e65ed3" name="Default Changelist" comment="" />
+      <created>1585383260545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585383260545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1112" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587194019559">
+      <screen x="-1280" y="0" width="1024" height="730" />
+    </state>
+    <state x="-1112" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.826/-1280.0.1024.730@-1280.0.1024.730" timestamp="1587194019559" />
+    <state width="980" height="169" key="GridCell.Tab.0.bottom" timestamp="1587210190145">
+      <screen x="-1280" y="0" width="1024" height="730" />
+    </state>
+    <state width="980" height="169" key="GridCell.Tab.0.bottom/0.0.1536.826/-1280.0.1024.730@-1280.0.1024.730" timestamp="1587210190145" />
+    <state width="1492" height="169" key="GridCell.Tab.0.bottom/0.0.1536.826/-1280.0.1024.730@0.0.1536.826" timestamp="1587207320239" />
+    <state width="1492" height="187" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1585573522816" />
+    <state width="980" height="169" key="GridCell.Tab.0.center" timestamp="1587210190144">
+      <screen x="-1280" y="0" width="1024" height="730" />
+    </state>
+    <state width="980" height="169" key="GridCell.Tab.0.center/0.0.1536.826/-1280.0.1024.730@-1280.0.1024.730" timestamp="1587210190144" />
+    <state width="1492" height="169" key="GridCell.Tab.0.center/0.0.1536.826/-1280.0.1024.730@0.0.1536.826" timestamp="1587207320239" />
+    <state width="1492" height="187" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1585573522815" />
+    <state width="980" height="169" key="GridCell.Tab.0.left" timestamp="1587210190144">
+      <screen x="-1280" y="0" width="1024" height="730" />
+    </state>
+    <state width="980" height="169" key="GridCell.Tab.0.left/0.0.1536.826/-1280.0.1024.730@-1280.0.1024.730" timestamp="1587210190144" />
+    <state width="1492" height="169" key="GridCell.Tab.0.left/0.0.1536.826/-1280.0.1024.730@0.0.1536.826" timestamp="1587207320238" />
+    <state width="1492" height="187" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1585573522814" />
+    <state width="980" height="169" key="GridCell.Tab.0.right" timestamp="1587210190145">
+      <screen x="-1280" y="0" width="1024" height="730" />
+    </state>
+    <state width="980" height="169" key="GridCell.Tab.0.right/0.0.1536.826/-1280.0.1024.730@-1280.0.1024.730" timestamp="1587210190145" />
+    <state width="1492" height="169" key="GridCell.Tab.0.right/0.0.1536.826/-1280.0.1024.730@0.0.1536.826" timestamp="1587207320239" />
+    <state width="1492" height="187" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1585573522815" />
+    <state x="-1280" y="0" width="914" height="730" key="SettingsEditor" timestamp="1585389310413">
+      <screen x="-1280" y="0" width="1024" height="730" />
+    </state>
+    <state x="-1280" y="0" width="914" height="730" key="SettingsEditor/0.0.1536.826/-1280.0.1024.730@-1280.0.1024.730" timestamp="1585389310413" />
+    <state x="0" y="0" width="914" height="826" key="SettingsEditor/0.0.1536.826/-1280.0.1024.730@0.0.1536.826" timestamp="1585386473102" />
+    <state x="-1131" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587206622528">
+      <screen x="-1280" y="0" width="1024" height="730" />
+    </state>
+    <state x="-1131" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.826/-1280.0.1024.730@-1280.0.1024.730" timestamp="1587206622528" />
+  </component>
+</project>

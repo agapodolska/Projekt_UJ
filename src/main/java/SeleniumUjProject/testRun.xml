@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+
+    <parameter name="browserType" value="chrome"/> <!-- chrome / firefox--->
+    <parameter name="impliityWait" value="10"/>
+    <parameter name="windowMaximize" value="true"/>
+    <test name="Regression1">
+        <classes>
+            <class name="SeleniumUjProject.tests.LoginTest"/>
+            <class name= "SeleniumUjProject.tests.AddVersionTest"/>
+            <class name= "SeleniumUjProject.tests.AddEnvironmentTest"/>
+        </classes>
+    </test>
+</suite>
